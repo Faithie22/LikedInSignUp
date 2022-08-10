@@ -46,7 +46,8 @@ input:focus{
 	border-radius: 25px;
 	width: 100%;
 	color: white;
-	border: 0;
+	border: none;
+        outline: none;
 	font-size: 18px;
 	margin-top: 20px;
 }
